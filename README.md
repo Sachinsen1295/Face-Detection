@@ -56,7 +56,7 @@ pip install -r requirements.txt
 ### Run the Face Detection Script:
 
 ```
-python face_detection.py
+python main.py
 ```
 
 
