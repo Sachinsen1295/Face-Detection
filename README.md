@@ -78,3 +78,4 @@ Feel free to contribute to this project by submitting pull requests or reporting
 
 
 
+![Sachin][https://github.com/Sachinsen1295/Face-Detection/blob/master/Screenshot%202023-10-30%20at%208.53.18%E2%80%AFPM.png]
